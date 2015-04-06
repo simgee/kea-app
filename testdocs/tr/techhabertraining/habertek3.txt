@@ -1,0 +1,32 @@
+<url>http://www.bbc.co.uk/turkce/ozeldosyalar/2015/03/150326_kokpit_kapi</url>
+<title>Kokpit kapıları nasıl açılır ve kilitlenir?</title>
+
+Marsilya Savcısı Brice Robin, Germanwings uçağının yardımcı pilot tarafından kasten düşürülmüş göründüğünü söyledi.
+Savcı, kokpit kapısının pilotun girememesi için, o dışardayken kilitlendiğini belirtti.
+Peki, bu nasıl mümkün oldu?
+TIKLAYIN: Yardımcı pilot olay günü raporluydu
+11 Eylül saldırılarından sonra, uçak kaçırmaları daha zor hale getirmek için kokpitlerinin güvenliğine ilişkin bazı önlemler alındı.
+ABD Federal Havacılık Kurumu, kapıların el bombası atılması halinde dahi patlamaya dayanacak güçte yapılmasını istedi.
+Genellikle de kokpit kapısı uçuş boyunca kilitli kalıyor.
+Kokpit sistemi
+Kokpit güvenlik sistemleri, pilot koltuğundan yönetiliyor.
+
+Sistemin geçici bir süre ile devre dışı bırakılması halinde, güvenlik kodunu bilen mürettebat kokpite girebiliyor.
+Airbus tipi uçakların kokpit kapılarında üç farklı norm var: Normal, açık ve kilitli.
+"Normal" durumda, kokpit kapısı kilitli oluyor ancak 30 saniyelik bir sürenin ardından şifrenin girilmesi halinde mürettebat içeri girebiliyor. Ancak bunun için bu süre boyunca kokpit içinden müretebbata yanıt verilmemesi gerekiyor.
+"Açık" durumda, pilot tuvaletten dönen meslektaşına kokpit kapısını açıyor.
+"Kilitli" durumda ise güvenlik şifresi doğru da girilse kokpit kapısı beş dakika boyunca açılamıyor ve bu süre uzatılabiliyor.
+Böylece hava korsanları mürettebattan şifreyi öğrenseler bile kokpite giremiyor.
+Kokpitte kaç kişi olmalı?
+Diğer bir soru da herhangi bir anda kokpitte kaç kişi olması gerektiği ile ilgili.
+
+ABD'deki kurallara göre, pilot dışarı çıktığında bir kabin görevlisi kokpite giriyor.
+Germanwings Havayolları ise Alman Havacılık Güvenliği Ajansı tarafından belirlenen kokpit kurallarını uyguluyor.
+Bu kurallara göre, kokpitte iki kişilik bir ekip olduğu zaman bunlardan biri sadece, mutlak derecede belirlenmiş minimum sürede, kokpitten ayrılabiliyor.
+Diğer havayolu şirketlerinde ise "ikili kuralı" var.
+Buna göre, bir pilot herhangi bir zaman uzunluğu için kokpiti terk ederse, başka bir mürettebat üyesi ile yer değiştirmesi gerekiyor.
+Ancak, Germanwings'in sahibi Lufthansa'da ya da diğer bazı büyük havayollarında durum böyle değil.
+Türk Hava Yolları'nda ise "ikili kuralı" özel durumlarda uygulanıyor. Pilotlardan birinin riskli bir sağlık durumu olması halinde o pilot kokpitte yalnız bırakılmıyor. Bunun dışında kaptan pilotun inisiyatifiyle, bazı durumlarda kabin memurları yardımcı pilota kokpitte eşlik edebiliyor.
+
+Düşen uçağın pilotu 10 yıldır havayolu grubunda çalışıyordu ve 6 bin saatten fazla uçuş tecrübesi vardı.
+Germanwings'e 2013 yılında katılan yardımcı pilot için ise bu süre 650 saatti.
