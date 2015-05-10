@@ -12,6 +12,7 @@ import kea.stemmers.SremovalStemmer;
 import kea.stemmers.Stemmer;
 import kea.stopwords.Stopwords;
 import kea.stopwords.StopwordsSpanish;
+///import kea.stopwords.StopwordsTurkish;
 import kea.util.Counter;
 import kea.vocab.Vocabulary;
 import weka.core.Attribute;
@@ -911,7 +912,7 @@ public class KEAFilter extends Filter implements OptionHandler {
 
 			Iterator<String> it = hash.keySet().iterator();
 			while (it.hasNext()) {
-				String phrase = it.next();
+				String phrase = (String)it.next();
 				FastVector phraseInfo = (FastVector)hash.get(phrase);
 
 				double[] vals =  featVals(phrase, phraseInfo, true,
@@ -1037,7 +1038,7 @@ public class KEAFilter extends Filter implements OptionHandler {
 
 		// Compute feature values
 		Counter counterLocal = (Counter)phraseInfo.elementAt(1);
-		double[] newInst = new double[m_NumFeatures + 1];
+		double[] newInst = new double[m_NumFeatures + 2];
 
 
 		// Compute TFxIDF

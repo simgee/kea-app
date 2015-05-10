@@ -621,6 +621,7 @@ public class KEAKeyphraseExtractor implements OptionHandler {
 				}
 			}
 		} catch (Exception e) {
+			e.printStackTrace();
 			throw new Exception("Problem opening directory " + m_dirName);
 		}
 		return stems;
