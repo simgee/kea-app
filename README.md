@@ -1,7 +1,7 @@
 
-## Finding Keywords From News For Turkish
+## Finding Keywords From Turkish News
 
-####Project Proposal
+#### Project Proposal
 
 [KEA](http://www.nzdl.org/Kea/)(Keyphrase Extraction Algorithm) is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. It is an open-source software distributed under the GNU General Public License.
 https://github.com/turian/kea-service
